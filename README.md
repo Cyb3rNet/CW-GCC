@@ -12,7 +12,7 @@
 More of a company focused documentation to ease code reading used in personal
 and professional projects.
 
-Online documentation is available at [cw-gcc.cyb3r.ca]:http://www.cyb3r.ca
+Online documentation is available at [cw-gcc.cyb3r.ca](http://www.cyb3r.ca)
 
 ## Documentation Assembly
 
